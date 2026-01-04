@@ -24,7 +24,7 @@ All key text is centralized in:
 To switch between the included profiles:
 
 ```js
-export const ACTIVE_PROFILE = "gheorghe"; // or "oskar"
+export const ACTIVE_PROFILE = "gheorghe";
 ```
 
 Update links:
