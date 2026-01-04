@@ -26,7 +26,7 @@ export const PROFILES = {
     ],
     focus: ["React", "Node.js", "APIs", "SaaS"],
     socials: {
-      github: "https://github.com/",
+      github: "https://github.com/gicubarbuta27-hue/",
       linkedin: "https://www.linkedin.com/",
       twitter: "",
       instagram: "",
